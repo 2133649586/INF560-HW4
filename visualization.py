@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 
 dataset_x = []
-files = open("create_dataset.txt","r")
+files = open("dataset_x.txt","r")
 for file in files:
     dataset_x.append(float(file))
 
 dataset_y = []
-files = open("create_dataset.txt", "r")
+files = open("dataset_y.txt", "r")
 for file in files:
     dataset_y.append(float(file))
 
