@@ -22,9 +22,6 @@ number generator script of Homework 2.
 # a.(5p) Compare the packages that you manually installed versus the dependency list you extracted.
     manully installed will get what package we want exactly.
     the dependency list we extracted is a .txt file, and it include a lot of names of packages which we not need in our visual environment.
-    
-# b.(3p) If you created your virtual environment with venv, add the environment folder to a “.gitignore” file so it is not uploaded to GitHub. The “.gitignore” file is a hidden file with all the file extensions to avoid uploading them online. You don’t need to include an answer about this point in the readme, but points will be deducted for not completing this step. See https://git-
- scm.com/docs/gitignore for additional documentation. If you used Anaconda to create your environment, create a gitignore file for filtering XML files.
  
 # c.(7p) Upload your extracted dependencies to GitHub following the naming conventions taught in class.
 ![](https://github.com/2133649586/imag/blob/main/%E6%88%AA%E5%B1%8F2020-10-29%2018.20.27.png)
@@ -33,6 +30,17 @@ number generator script of Homework 2.
 
 # 6-(10p) In your readme file include the instructions to:
 steps:
+1. download zip file of the project from github
+2. Enter the file directory from the terminal
+3. run: pip install virtualenv (install tool for create visual environment)
+4. run: virtualenv dsci560H4 （create visual environment）
+5. run: source dsci560H4/bin/activate  （activate visual environment）
+6. run: python3 create_dataset.py
+7. run: python3 function_dataset.py
+8. run: python3 visualization.py
+9. run: deactivate (close the visual environment)
+
+1. run the jupyter notebook in binder, execute it.
 
 
 
