@@ -27,7 +27,7 @@ number generator script of Homework 2.
  scm.com/docs/gitignore for additional documentation. If you used Anaconda to create your environment, create a gitignore file for filtering XML files.
  
 # c.(7p) Upload your extracted dependencies to GitHub following the naming conventions taught in class.
-![](https://github.com/2133649586/imag/blob/main/%E6%88%AA%E5%B1%8F2020-10-29%2013.42.08.png)
+![](https://github.com/2133649586/imag/blob/main/%E6%88%AA%E5%B1%8F2020-10-29%2018.20.27.png)
 
 # 5-(20p Update/reuse the Jupyter notebook for Homework 2 and make sure it is executable in Binder (10p). The notebook has to be executable, run end-to-end and include visualizations of the initial (2p), intermediate (4p) and final results (4p) used in Homework 2. An example of a visualization can be a distribution of the numbers generated randomly.
 
