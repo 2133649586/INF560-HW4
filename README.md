@@ -9,6 +9,7 @@ https://mybinder.org/v2/gh/2133649586/INF560-HW4/main?filepath=560_hw2.ipynb
  :target: https://mybinder.org/v2/gh/2133649586/INF560-HW4/main?filepath=560_hw2.ipynb
 
 1- (2p) In your local repository from homework 2, create a blank virtual environment and name it dsci560H4 
+![](https://github.com/2133649586/imag/blob/main/%E6%88%AA%E5%B1%8F2020-10-29%2013.02.14.png)
 
 2- (2p) Activate the environment and install ONLY the dependencies you need to execute the random
 number generator script of Homework 2.
