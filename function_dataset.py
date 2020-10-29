@@ -1,7 +1,7 @@
 dataset_y = []
 output = "dataset_y.txt"
 
-files = open("create_dataset.txt","r")
+files = open("dataset_x.txt","r")
 for file in files:
     dataset_y.append(float(file)*3+6)
 
