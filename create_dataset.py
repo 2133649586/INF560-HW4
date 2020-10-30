@@ -7,7 +7,7 @@ for i in range(0, 1000):
     num_100 = random.randint(1, 10000)
     dataset_x.append(num_100 / 100)
     
-plt.hist(dataset_x, bins=40, normed=0, facecolor="blue", edgecolor="black", alpha=0.7)
+plt.hist(dataset_x, bins=40, facecolor="blue", edgecolor="black", alpha=0.7)
 plt.show()
 
 with open(output, 'w') as output_file:
