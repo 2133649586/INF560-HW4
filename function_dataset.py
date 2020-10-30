@@ -11,7 +11,7 @@ for file in files:
 
 print(dataset_y)
 
-plt.hist(dataset_y, bins=40, normed=0, facecolor="blue", edgecolor="black", alpha=0.7)
+plt.hist(dataset_y, bins=40, facecolor="blue", edgecolor="black", alpha=0.7)
 plt.show()
 
 with open(output, 'w') as output_file:
